@@ -13,7 +13,7 @@
 [references](references)
 
 ---
-**Welcome to my repository of 'Fintech' assets! Feel free to look around and see what I've accomplished! -E**
+**Welcome to my repository of `Fintech` assets! Feel free to look around and see what I've accomplished! -E**
 
 ``` python
 print("It's nice to meet you! Happy browsing!")
