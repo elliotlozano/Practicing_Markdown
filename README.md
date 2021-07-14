@@ -1,7 +1,9 @@
-# Practicing_Markdown
+# *Fintech Repository*
 
- ## secondary header
+> "...to bodly go where no one has gone before."
+---
+**Welcome to my repository of Fintech assets! Feel free to look around and see what I've accomplished! -E**
 
- ### tertiary header
- 
-Learning and using markdown syntax to customize a README file
+``` python
+print("It's nice to meet you!")
+```
